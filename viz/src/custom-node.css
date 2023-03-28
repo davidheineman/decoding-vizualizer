@@ -1,0 +1,16 @@
+.log-prob {
+    font-size: 6px;
+}
+
+.token-node {
+    background-color: #e0e0e0;
+    height: 32px;
+    width: 32px;
+    border-radius: 25%;
+    /* margin: auto; */
+    /* margin-top: 60px; */
+}
+
+.name {
+    font-size: 10px;
+}
