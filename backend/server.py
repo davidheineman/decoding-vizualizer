@@ -19,11 +19,11 @@ torch.set_grad_enabled(False)
 
 print("Loading model... ", end='')
 config = MT5Model.config_class.from_pretrained("google/mt5-base")
-# tokenizer = T5Tokenizer.from_pretrained("../models/mT5-english")
-tokenizer = T5Tokenizer.from_pretrained("C:/Users/heine/Documents/research/decoding-algos/models/mT5-english")
+tokenizer = T5Tokenizer.from_pretrained("../models/mT5-english")
+# tokenizer = T5Tokenizer.from_pretrained("C:/Users/heine/Documents/research/decoding-algos/models/mT5-english")
 model = MT5ForConditionalGeneration.from_pretrained(
-    # "../models/mT5-english", 
-    "C:/Users/heine/Documents/research/decoding-algos/models/mT5-english", 
+    "../models/mT5-english", 
+    # "C:/Users/heine/Documents/research/decoding-algos/models/mT5-english", 
     device_map="auto", config=config
 ).eval()
 
