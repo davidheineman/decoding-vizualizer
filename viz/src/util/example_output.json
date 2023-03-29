@@ -1,0 +1,2546 @@
+{
+    "links": [
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 6,
+            "target": 15
+        },
+        {
+            "source": 4,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 9,
+            "target": 18
+        },
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 10,
+            "target": 20
+        },
+        {
+            "source": 12,
+            "target": 21
+        },
+        {
+            "source": 11,
+            "target": 22
+        },
+        {
+            "source": 13,
+            "target": 23
+        },
+        {
+            "source": 14,
+            "target": 24
+        },
+        {
+            "source": 15,
+            "target": 25
+        },
+        {
+            "source": 11,
+            "target": 26
+        },
+        {
+            "source": 18,
+            "target": 27
+        },
+        {
+            "source": 19,
+            "target": 28
+        },
+        {
+            "source": 16,
+            "target": 29
+        },
+        {
+            "source": 20,
+            "target": 30
+        },
+        {
+            "source": 21,
+            "target": 31
+        },
+        {
+            "source": 20,
+            "target": 32
+        },
+        {
+            "source": 24,
+            "target": 33
+        },
+        {
+            "source": 20,
+            "target": 34
+        },
+        {
+            "source": 20,
+            "target": 35
+        },
+        {
+            "source": 20,
+            "target": 36
+        },
+        {
+            "source": 26,
+            "target": 37
+        },
+        {
+            "source": 23,
+            "target": 38
+        },
+        {
+            "source": 25,
+            "target": 39
+        },
+        {
+            "source": 30,
+            "target": 40
+        },
+        {
+            "source": 31,
+            "target": 41
+        },
+        {
+            "source": 30,
+            "target": 42
+        },
+        {
+            "source": 30,
+            "target": 43
+        },
+        {
+            "source": 30,
+            "target": 44
+        },
+        {
+            "source": 37,
+            "target": 45
+        },
+        {
+            "source": 32,
+            "target": 46
+        },
+        {
+            "source": 39,
+            "target": 47
+        },
+        {
+            "source": 33,
+            "target": 48
+        },
+        {
+            "source": 36,
+            "target": 49
+        },
+        {
+            "source": 40,
+            "target": 50
+        },
+        {
+            "source": 40,
+            "target": 51
+        },
+        {
+            "source": 41,
+            "target": 52
+        },
+        {
+            "source": 40,
+            "target": 53
+        },
+        {
+            "source": 40,
+            "target": 54
+        },
+        {
+            "source": 40,
+            "target": 55
+        },
+        {
+            "source": 40,
+            "target": 56
+        },
+        {
+            "source": 48,
+            "target": 57
+        },
+        {
+            "source": 40,
+            "target": 58
+        },
+        {
+            "source": 49,
+            "target": 59
+        },
+        {
+            "source": 50,
+            "target": 60
+        },
+        {
+            "source": 51,
+            "target": 61
+        },
+        {
+            "source": 50,
+            "target": 62
+        },
+        {
+            "source": 52,
+            "target": 63
+        },
+        {
+            "source": 53,
+            "target": 64
+        },
+        {
+            "source": 54,
+            "target": 65
+        },
+        {
+            "source": 50,
+            "target": 66
+        },
+        {
+            "source": 55,
+            "target": 67
+        },
+        {
+            "source": 56,
+            "target": 68
+        },
+        {
+            "source": 58,
+            "target": 69
+        },
+        {
+            "source": 60,
+            "target": 70
+        },
+        {
+            "source": 61,
+            "target": 71
+        },
+        {
+            "source": 62,
+            "target": 72
+        },
+        {
+            "source": 63,
+            "target": 73
+        },
+        {
+            "source": 66,
+            "target": 74
+        },
+        {
+            "source": 66,
+            "target": 75
+        },
+        {
+            "source": 60,
+            "target": 76
+        },
+        {
+            "source": 66,
+            "target": 77
+        },
+        {
+            "source": 60,
+            "target": 78
+        },
+        {
+            "source": 60,
+            "target": 79
+        },
+        {
+            "source": 74,
+            "target": 80
+        },
+        {
+            "source": 76,
+            "target": 81
+        },
+        {
+            "source": 75,
+            "target": 82
+        },
+        {
+            "source": 74,
+            "target": 83
+        },
+        {
+            "source": 78,
+            "target": 84
+        },
+        {
+            "source": 77,
+            "target": 85
+        },
+        {
+            "source": 75,
+            "target": 86
+        },
+        {
+            "source": 74,
+            "target": 87
+        },
+        {
+            "source": 74,
+            "target": 88
+        },
+        {
+            "source": 75,
+            "target": 89
+        },
+        {
+            "source": 80,
+            "target": 90
+        },
+        {
+            "source": 81,
+            "target": 91
+        },
+        {
+            "source": 82,
+            "target": 92
+        },
+        {
+            "source": 83,
+            "target": 93
+        },
+        {
+            "source": 84,
+            "target": 94
+        },
+        {
+            "source": 85,
+            "target": 95
+        },
+        {
+            "source": 82,
+            "target": 96
+        },
+        {
+            "source": 86,
+            "target": 97
+        },
+        {
+            "source": 87,
+            "target": 98
+        },
+        {
+            "source": 89,
+            "target": 99
+        },
+        {
+            "source": 96,
+            "target": 100
+        },
+        {
+            "source": 97,
+            "target": 101
+        },
+        {
+            "source": 91,
+            "target": 102
+        },
+        {
+            "source": 97,
+            "target": 103
+        },
+        {
+            "source": 90,
+            "target": 104
+        },
+        {
+            "source": 96,
+            "target": 105
+        },
+        {
+            "source": 91,
+            "target": 106
+        },
+        {
+            "source": 92,
+            "target": 107
+        },
+        {
+            "source": 90,
+            "target": 108
+        },
+        {
+            "source": 94,
+            "target": 109
+        },
+        {
+            "source": 100,
+            "target": 110
+        },
+        {
+            "source": 101,
+            "target": 111
+        },
+        {
+            "source": 100,
+            "target": 112
+        },
+        {
+            "source": 101,
+            "target": 113
+        },
+        {
+            "source": 100,
+            "target": 114
+        },
+        {
+            "source": 100,
+            "target": 115
+        },
+        {
+            "source": 101,
+            "target": 116
+        },
+        {
+            "source": 100,
+            "target": 117
+        },
+        {
+            "source": 101,
+            "target": 118
+        },
+        {
+            "source": 101,
+            "target": 119
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "token": "It",
+            "log_prob": -0.27619093656539917,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                0
+            ],
+            "hyp": "It",
+            "sbleu": -1
+        },
+        {
+            "id": 1,
+            "token": "",
+            "log_prob": -3.007085084915161,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                1
+            ],
+            "hyp": "",
+            "sbleu": -1
+        },
+        {
+            "id": 2,
+            "token": "This",
+            "log_prob": -3.408709764480591,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                2
+            ],
+            "hyp": "This",
+            "sbleu": -1
+        },
+        {
+            "id": 3,
+            "token": "The",
+            "log_prob": -3.679018259048462,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                3
+            ],
+            "hyp": "The",
+            "sbleu": -1
+        },
+        {
+            "id": 4,
+            "token": "He",
+            "log_prob": -4.188380241394043,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                4
+            ],
+            "hyp": "He",
+            "sbleu": -1
+        },
+        {
+            "id": 5,
+            "token": "People",
+            "log_prob": -4.234101295471191,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                5
+            ],
+            "hyp": "People",
+            "sbleu": -1
+        },
+        {
+            "id": 6,
+            "token": "That",
+            "log_prob": -4.620859146118164,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                6
+            ],
+            "hyp": "That",
+            "sbleu": -1
+        },
+        {
+            "id": 7,
+            "token": "You",
+            "log_prob": -4.7472381591796875,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                7
+            ],
+            "hyp": "You",
+            "sbleu": -1
+        },
+        {
+            "id": 8,
+            "token": "There",
+            "log_prob": -5.274379730224609,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                8
+            ],
+            "hyp": "There",
+            "sbleu": -1
+        },
+        {
+            "id": 9,
+            "token": "What",
+            "log_prob": -5.378602981567383,
+            "step": 0,
+            "eos": false,
+            "seq": [
+                9
+            ],
+            "hyp": "What",
+            "sbleu": -1
+        },
+        {
+            "id": 10,
+            "token": "",
+            "log_prob": -0.32781919836997986,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                0,
+                10
+            ],
+            "hyp": "It",
+            "sbleu": -1
+        },
+        {
+            "id": 11,
+            "token": "They",
+            "log_prob": -3.272826671600342,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                1,
+                11
+            ],
+            "hyp": "They",
+            "sbleu": -1
+        },
+        {
+            "id": 12,
+            "token": "",
+            "log_prob": -3.5075573921203613,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                2,
+                12
+            ],
+            "hyp": "This",
+            "sbleu": -1
+        },
+        {
+            "id": 13,
+            "token": "is",
+            "log_prob": -4.1485981941223145,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                0,
+                13
+            ],
+            "hyp": "It is",
+            "sbleu": -1
+        },
+        {
+            "id": 14,
+            "token": "pay",
+            "log_prob": -4.729133129119873,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                5,
+                14
+            ],
+            "hyp": "People pay",
+            "sbleu": -1
+        },
+        {
+            "id": 15,
+            "token": "",
+            "log_prob": -4.731729030609131,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                6,
+                15
+            ],
+            "hyp": "That",
+            "sbleu": -1
+        },
+        {
+            "id": 16,
+            "token": "",
+            "log_prob": -5.232185363769531,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                4,
+                16
+            ],
+            "hyp": "He",
+            "sbleu": -1
+        },
+        {
+            "id": 17,
+            "token": "can",
+            "log_prob": -5.3842644691467285,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                0,
+                17
+            ],
+            "hyp": "It can",
+            "sbleu": -1
+        },
+        {
+            "id": 18,
+            "token": "you",
+            "log_prob": -5.444716453552246,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                9,
+                18
+            ],
+            "hyp": "What you",
+            "sbleu": -1
+        },
+        {
+            "id": 19,
+            "token": "n",
+            "log_prob": -5.583285331726074,
+            "step": 1,
+            "eos": false,
+            "seq": [
+                3,
+                19
+            ],
+            "hyp": "Then",
+            "sbleu": -1
+        },
+        {
+            "id": 20,
+            "token": "means",
+            "log_prob": -0.3304522931575775,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20
+            ],
+            "hyp": "It means",
+            "sbleu": -1
+        },
+        {
+            "id": 21,
+            "token": "means",
+            "log_prob": -3.510215997695923,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21
+            ],
+            "hyp": "This means",
+            "sbleu": -1
+        },
+        {
+            "id": 22,
+            "token": "say",
+            "log_prob": -4.285743236541748,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                1,
+                11,
+                22
+            ],
+            "hyp": "They say",
+            "sbleu": -1
+        },
+        {
+            "id": 23,
+            "token": "",
+            "log_prob": -4.540351867675781,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                0,
+                13,
+                23
+            ],
+            "hyp": "It is",
+            "sbleu": -1
+        },
+        {
+            "id": 24,
+            "token": "attention",
+            "log_prob": -4.732405662536621,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                5,
+                14,
+                24
+            ],
+            "hyp": "People pay attention",
+            "sbleu": -1
+        },
+        {
+            "id": 25,
+            "token": "means",
+            "log_prob": -4.734701156616211,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                6,
+                15,
+                25
+            ],
+            "hyp": "That means",
+            "sbleu": -1
+        },
+        {
+            "id": 26,
+            "token": "pay",
+            "log_prob": -4.924343585968018,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                1,
+                11,
+                26
+            ],
+            "hyp": "They pay",
+            "sbleu": -1
+        },
+        {
+            "id": 27,
+            "token": "pay",
+            "log_prob": -5.601558685302734,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                9,
+                18,
+                27
+            ],
+            "hyp": "What you pay",
+            "sbleu": -1
+        },
+        {
+            "id": 28,
+            "token": "you",
+            "log_prob": -5.923991680145264,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                3,
+                19,
+                28
+            ],
+            "hyp": "Then you",
+            "sbleu": -1
+        },
+        {
+            "id": 29,
+            "token": "says",
+            "log_prob": -5.952467441558838,
+            "step": 2,
+            "eos": false,
+            "seq": [
+                4,
+                16,
+                29
+            ],
+            "hyp": "He says",
+            "sbleu": -1
+        },
+        {
+            "id": 30,
+            "token": "",
+            "log_prob": -0.6074305772781372,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30
+            ],
+            "hyp": "It means",
+            "sbleu": -1
+        },
+        {
+            "id": 31,
+            "token": "",
+            "log_prob": -3.6830801963806152,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21,
+                31
+            ],
+            "hyp": "This means",
+            "sbleu": -1
+        },
+        {
+            "id": 32,
+            "token": "to",
+            "log_prob": -4.1803297996521,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                32
+            ],
+            "hyp": "It means to",
+            "sbleu": -1
+        },
+        {
+            "id": 33,
+            "token": "to",
+            "log_prob": -4.733733654022217,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                5,
+                14,
+                24,
+                33
+            ],
+            "hyp": "People pay attention to",
+            "sbleu": -1
+        },
+        {
+            "id": 34,
+            "token": "it",
+            "log_prob": -4.78521203994751,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                34
+            ],
+            "hyp": "It means it",
+            "sbleu": -1
+        },
+        {
+            "id": 35,
+            "token": "not",
+            "log_prob": -4.793943881988525,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                35
+            ],
+            "hyp": "It means not",
+            "sbleu": -1
+        },
+        {
+            "id": 36,
+            "token": "pay",
+            "log_prob": -4.9171319007873535,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                36
+            ],
+            "hyp": "It means pay",
+            "sbleu": -1
+        },
+        {
+            "id": 37,
+            "token": "attention",
+            "log_prob": -4.930876731872559,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                1,
+                11,
+                26,
+                37
+            ],
+            "hyp": "They pay attention",
+            "sbleu": -1
+        },
+        {
+            "id": 38,
+            "token": "a",
+            "log_prob": -4.931069374084473,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                0,
+                13,
+                23,
+                38
+            ],
+            "hyp": "It is a",
+            "sbleu": -1
+        },
+        {
+            "id": 39,
+            "token": "",
+            "log_prob": -4.972701072692871,
+            "step": 3,
+            "eos": false,
+            "seq": [
+                6,
+                15,
+                25,
+                39
+            ],
+            "hyp": "That means",
+            "sbleu": -1
+        },
+        {
+            "id": 40,
+            "token": "being",
+            "log_prob": -0.7666120529174805,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40
+            ],
+            "hyp": "It means being",
+            "sbleu": -1
+        },
+        {
+            "id": 41,
+            "token": "being",
+            "log_prob": -3.7478630542755127,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21,
+                31,
+                41
+            ],
+            "hyp": "This means being",
+            "sbleu": -1
+        },
+        {
+            "id": 42,
+            "token": "a",
+            "log_prob": -3.889742851257324,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                42
+            ],
+            "hyp": "It means a",
+            "sbleu": -1
+        },
+        {
+            "id": 43,
+            "token": "having",
+            "log_prob": -4.605640411376953,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                43
+            ],
+            "hyp": "It means having",
+            "sbleu": -1
+        },
+        {
+            "id": 44,
+            "token": "thinking",
+            "log_prob": -4.773064613342285,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                44
+            ],
+            "hyp": "It means thinking",
+            "sbleu": -1
+        },
+        {
+            "id": 45,
+            "token": "to",
+            "log_prob": -4.933681011199951,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                1,
+                11,
+                26,
+                37,
+                45
+            ],
+            "hyp": "They pay attention to",
+            "sbleu": -1
+        },
+        {
+            "id": 46,
+            "token": "be",
+            "log_prob": -4.989773750305176,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                32,
+                46
+            ],
+            "hyp": "It means to be",
+            "sbleu": -1
+        },
+        {
+            "id": 47,
+            "token": "being",
+            "log_prob": -5.07804536819458,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                6,
+                15,
+                25,
+                39,
+                47
+            ],
+            "hyp": "That means being",
+            "sbleu": -1
+        },
+        {
+            "id": 48,
+            "token": "it",
+            "log_prob": -5.162125587463379,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                5,
+                14,
+                24,
+                33,
+                48
+            ],
+            "hyp": "People pay attention to it",
+            "sbleu": -1
+        },
+        {
+            "id": 49,
+            "token": "ing",
+            "log_prob": -5.229098796844482,
+            "step": 4,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                36,
+                49
+            ],
+            "hyp": "It means paying",
+            "sbleu": -1
+        },
+        {
+            "id": 50,
+            "token": "",
+            "log_prob": -1.1706759929656982,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50
+            ],
+            "hyp": "It means being",
+            "sbleu": -1
+        },
+        {
+            "id": 51,
+            "token": "care",
+            "log_prob": -3.4444072246551514,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                51
+            ],
+            "hyp": "It means being care",
+            "sbleu": -1
+        },
+        {
+            "id": 52,
+            "token": "",
+            "log_prob": -3.9297921657562256,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21,
+                31,
+                41,
+                52
+            ],
+            "hyp": "This means being",
+            "sbleu": -1
+        },
+        {
+            "id": 53,
+            "token": "smart",
+            "log_prob": -4.371548652648926,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                53
+            ],
+            "hyp": "It means being smart",
+            "sbleu": -1
+        },
+        {
+            "id": 54,
+            "token": "open",
+            "log_prob": -4.516894340515137,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                54
+            ],
+            "hyp": "It means being open",
+            "sbleu": -1
+        },
+        {
+            "id": 55,
+            "token": "sure",
+            "log_prob": -4.957873821258545,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                55
+            ],
+            "hyp": "It means being sure",
+            "sbleu": -1
+        },
+        {
+            "id": 56,
+            "token": "clear",
+            "log_prob": -5.029716968536377,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                56
+            ],
+            "hyp": "It means being clear",
+            "sbleu": -1
+        },
+        {
+            "id": 57,
+            "token": ".",
+            "log_prob": -5.1656928062438965,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                5,
+                14,
+                24,
+                33,
+                48,
+                57
+            ],
+            "hyp": "People pay attention to it.",
+            "sbleu": -1
+        },
+        {
+            "id": 58,
+            "token": "honest",
+            "log_prob": -5.203991413116455,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                58
+            ],
+            "hyp": "It means being honest",
+            "sbleu": -1
+        },
+        {
+            "id": 59,
+            "token": "attention",
+            "log_prob": -5.231916427612305,
+            "step": 5,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                36,
+                49,
+                59
+            ],
+            "hyp": "It means paying attention",
+            "sbleu": -1
+        },
+        {
+            "id": 60,
+            "token": "aware",
+            "log_prob": -1.375978946685791,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60
+            ],
+            "hyp": "It means being aware",
+            "sbleu": -1
+        },
+        {
+            "id": 61,
+            "token": "ful",
+            "log_prob": -3.4453070163726807,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                51,
+                61
+            ],
+            "hyp": "It means being careful",
+            "sbleu": -1
+        },
+        {
+            "id": 62,
+            "token": "conscious",
+            "log_prob": -3.648616313934326,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                62
+            ],
+            "hyp": "It means being conscious",
+            "sbleu": -1
+        },
+        {
+            "id": 63,
+            "token": "aware",
+            "log_prob": -4.080796718597412,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21,
+                31,
+                41,
+                52,
+                63
+            ],
+            "hyp": "This means being aware",
+            "sbleu": -1
+        },
+        {
+            "id": 64,
+            "token": ".",
+            "log_prob": -4.392691135406494,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                53,
+                64
+            ],
+            "hyp": "It means being smart.",
+            "sbleu": -1
+        },
+        {
+            "id": 65,
+            "token": ".",
+            "log_prob": -4.697708606719971,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                54,
+                65
+            ],
+            "hyp": "It means being open.",
+            "sbleu": -1
+        },
+        {
+            "id": 66,
+            "token": "a",
+            "log_prob": -4.970991611480713,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66
+            ],
+            "hyp": "It means being a",
+            "sbleu": -1
+        },
+        {
+            "id": 67,
+            "token": ".",
+            "log_prob": -5.023474216461182,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                55,
+                67
+            ],
+            "hyp": "It means being sure.",
+            "sbleu": -1
+        },
+        {
+            "id": 68,
+            "token": ".",
+            "log_prob": -5.069720268249512,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                56,
+                68
+            ],
+            "hyp": "It means being clear.",
+            "sbleu": -1
+        },
+        {
+            "id": 69,
+            "token": ".",
+            "log_prob": -5.21099853515625,
+            "step": 6,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                58,
+                69
+            ],
+            "hyp": "It means being honest.",
+            "sbleu": -1
+        },
+        {
+            "id": 70,
+            "token": ".",
+            "log_prob": -1.3872411251068115,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                70
+            ],
+            "hyp": "It means being aware.",
+            "sbleu": -1
+        },
+        {
+            "id": 71,
+            "token": ".",
+            "log_prob": -3.4490907192230225,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                51,
+                61,
+                71
+            ],
+            "hyp": "It means being careful.",
+            "sbleu": -1
+        },
+        {
+            "id": 72,
+            "token": ".",
+            "log_prob": -3.6526072025299072,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                62,
+                72
+            ],
+            "hyp": "It means being conscious.",
+            "sbleu": -1
+        },
+        {
+            "id": 73,
+            "token": ".",
+            "log_prob": -4.086119174957275,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                2,
+                12,
+                21,
+                31,
+                41,
+                52,
+                63,
+                73
+            ],
+            "hyp": "This means being aware.",
+            "sbleu": -1
+        },
+        {
+            "id": 74,
+            "token": "good",
+            "log_prob": -5.862901210784912,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74
+            ],
+            "hyp": "It means being a good",
+            "sbleu": -1
+        },
+        {
+            "id": 75,
+            "token": "",
+            "log_prob": -6.337734699249268,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75
+            ],
+            "hyp": "It means being a",
+            "sbleu": -1
+        },
+        {
+            "id": 76,
+            "token": "",
+            "log_prob": -7.019251346588135,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                76
+            ],
+            "hyp": "It means being aware",
+            "sbleu": -1
+        },
+        {
+            "id": 77,
+            "token": "smart",
+            "log_prob": -7.712440013885498,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                77
+            ],
+            "hyp": "It means being a smart",
+            "sbleu": -1
+        },
+        {
+            "id": 78,
+            "token": "of",
+            "log_prob": -7.907731533050537,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                78
+            ],
+            "hyp": "It means being aware of",
+            "sbleu": -1
+        },
+        {
+            "id": 79,
+            "token": ".\"",
+            "log_prob": -8.173957824707031,
+            "step": 7,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                79
+            ],
+            "hyp": "It means being aware.\"",
+            "sbleu": -1
+        },
+        {
+            "id": 80,
+            "token": "person",
+            "log_prob": -6.392719745635986,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                80
+            ],
+            "hyp": "It means being a good person",
+            "sbleu": -1
+        },
+        {
+            "id": 81,
+            "token": "enough",
+            "log_prob": -7.058568000793457,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                76,
+                81
+            ],
+            "hyp": "It means being aware enough",
+            "sbleu": -1
+        },
+        {
+            "id": 82,
+            "token": "conscious",
+            "log_prob": -7.3670525550842285,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82
+            ],
+            "hyp": "It means being a conscious",
+            "sbleu": -1
+        },
+        {
+            "id": 83,
+            "token": "man",
+            "log_prob": -8.278362274169922,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                83
+            ],
+            "hyp": "It means being a good man",
+            "sbleu": -1
+        },
+        {
+            "id": 84,
+            "token": "it",
+            "log_prob": -8.288657188415527,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                78,
+                84
+            ],
+            "hyp": "It means being aware of it",
+            "sbleu": -1
+        },
+        {
+            "id": 85,
+            "token": "person",
+            "log_prob": -8.36766529083252,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                77,
+                85
+            ],
+            "hyp": "It means being a smart person",
+            "sbleu": -1
+        },
+        {
+            "id": 86,
+            "token": "wise",
+            "log_prob": -8.48165512084961,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86
+            ],
+            "hyp": "It means being a wise",
+            "sbleu": -1
+        },
+        {
+            "id": 87,
+            "token": "idea",
+            "log_prob": -9.174581527709961,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                87
+            ],
+            "hyp": "It means being a good idea",
+            "sbleu": -1
+        },
+        {
+            "id": 88,
+            "token": "",
+            "log_prob": -9.188251495361328,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                88
+            ],
+            "hyp": "It means being a good",
+            "sbleu": -1
+        },
+        {
+            "id": 89,
+            "token": "serious",
+            "log_prob": -9.314489364624023,
+            "step": 8,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                89
+            ],
+            "hyp": "It means being a serious",
+            "sbleu": -1
+        },
+        {
+            "id": 90,
+            "token": ".",
+            "log_prob": -6.393723964691162,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                80,
+                90
+            ],
+            "hyp": "It means being a good person.",
+            "sbleu": -1
+        },
+        {
+            "id": 91,
+            "token": ".",
+            "log_prob": -7.060496807098389,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                76,
+                81,
+                91
+            ],
+            "hyp": "It means being aware enough.",
+            "sbleu": -1
+        },
+        {
+            "id": 92,
+            "token": ".",
+            "log_prob": -7.748300075531006,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                92
+            ],
+            "hyp": "It means being a conscious.",
+            "sbleu": -1
+        },
+        {
+            "id": 93,
+            "token": ".",
+            "log_prob": -8.279473304748535,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                83,
+                93
+            ],
+            "hyp": "It means being a good man.",
+            "sbleu": -1
+        },
+        {
+            "id": 94,
+            "token": ".",
+            "log_prob": -8.293035507202148,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                78,
+                84,
+                94
+            ],
+            "hyp": "It means being aware of it.",
+            "sbleu": -1
+        },
+        {
+            "id": 95,
+            "token": ".",
+            "log_prob": -8.368537902832031,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                77,
+                85,
+                95
+            ],
+            "hyp": "It means being a smart person.",
+            "sbleu": -1
+        },
+        {
+            "id": 96,
+            "token": "person",
+            "log_prob": -8.636592864990234,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96
+            ],
+            "hyp": "It means being a conscious person",
+            "sbleu": -1
+        },
+        {
+            "id": 97,
+            "token": "person",
+            "log_prob": -8.80940055847168,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97
+            ],
+            "hyp": "It means being a wise person",
+            "sbleu": -1
+        },
+        {
+            "id": 98,
+            "token": ".",
+            "log_prob": -9.175580978393555,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                87,
+                98
+            ],
+            "hyp": "It means being a good idea.",
+            "sbleu": -1
+        },
+        {
+            "id": 99,
+            "token": ".",
+            "log_prob": -9.819565773010254,
+            "step": 9,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                89,
+                99
+            ],
+            "hyp": "It means being a serious.",
+            "sbleu": -1
+        },
+        {
+            "id": 100,
+            "token": ".",
+            "log_prob": -8.638346672058105,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100
+            ],
+            "hyp": "It means being a conscious person.",
+            "sbleu": -1
+        },
+        {
+            "id": 101,
+            "token": ".",
+            "log_prob": -8.810338020324707,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101
+            ],
+            "hyp": "It means being a wise person.",
+            "sbleu": -1
+        },
+        {
+            "id": 102,
+            "token": ".",
+            "log_prob": -17.21796226501465,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                76,
+                81,
+                91,
+                102
+            ],
+            "hyp": "It means being aware enough..",
+            "sbleu": -1
+        },
+        {
+            "id": 103,
+            "token": ".\"",
+            "log_prob": -17.21993637084961,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                103
+            ],
+            "hyp": "It means being a wise person.\"",
+            "sbleu": -1
+        },
+        {
+            "id": 104,
+            "token": ".",
+            "log_prob": -17.226226806640625,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                80,
+                90,
+                104
+            ],
+            "hyp": "It means being a good person..",
+            "sbleu": -1
+        },
+        {
+            "id": 105,
+            "token": ".\"",
+            "log_prob": -17.231769561767578,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                105
+            ],
+            "hyp": "It means being a conscious person.\"",
+            "sbleu": -1
+        },
+        {
+            "id": 106,
+            "token": ")",
+            "log_prob": -17.52806854248047,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                76,
+                81,
+                91,
+                106
+            ],
+            "hyp": "It means being aware enough.)",
+            "sbleu": -1
+        },
+        {
+            "id": 107,
+            "token": ".",
+            "log_prob": -17.984546661376953,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                92,
+                107
+            ],
+            "hyp": "It means being a conscious..",
+            "sbleu": -1
+        },
+        {
+            "id": 108,
+            "token": ")",
+            "log_prob": -18.671947479248047,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                74,
+                80,
+                90,
+                108
+            ],
+            "hyp": "It means being a good person.)",
+            "sbleu": -1
+        },
+        {
+            "id": 109,
+            "token": ".",
+            "log_prob": -18.7169189453125,
+            "step": 10,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                78,
+                84,
+                94,
+                109
+            ],
+            "hyp": "It means being aware of it..",
+            "sbleu": -1
+        },
+        {
+            "id": 110,
+            "token": ".",
+            "log_prob": -18.9304256439209,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100,
+                110
+            ],
+            "hyp": "It means being a conscious person..",
+            "sbleu": -1
+        },
+        {
+            "id": 111,
+            "token": ".",
+            "log_prob": -19.358592987060547,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101,
+                111
+            ],
+            "hyp": "It means being a wise person..",
+            "sbleu": -1
+        },
+        {
+            "id": 112,
+            "token": ")",
+            "log_prob": -20.694198608398438,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100,
+                112
+            ],
+            "hyp": "It means being a conscious person.)",
+            "sbleu": -1
+        },
+        {
+            "id": 113,
+            "token": ")",
+            "log_prob": -21.18360710144043,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101,
+                113
+            ],
+            "hyp": "It means being a wise person.)",
+            "sbleu": -1
+        },
+        {
+            "id": 114,
+            "token": "T",
+            "log_prob": -21.519622802734375,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100,
+                114
+            ],
+            "hyp": "It means being a conscious person.T",
+            "sbleu": -1
+        },
+        {
+            "id": 115,
+            "token": "'",
+            "log_prob": -21.598196029663086,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100,
+                115
+            ],
+            "hyp": "It means being a conscious person.'",
+            "sbleu": -1
+        },
+        {
+            "id": 116,
+            "token": "'",
+            "log_prob": -21.765132904052734,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101,
+                116
+            ],
+            "hyp": "It means being a wise person.'",
+            "sbleu": -1
+        },
+        {
+            "id": 117,
+            "token": ").",
+            "log_prob": -21.781585693359375,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                82,
+                96,
+                100,
+                117
+            ],
+            "hyp": "It means being a conscious person.).",
+            "sbleu": -1
+        },
+        {
+            "id": 118,
+            "token": "T",
+            "log_prob": -21.945907592773438,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101,
+                118
+            ],
+            "hyp": "It means being a wise person.T",
+            "sbleu": -1
+        },
+        {
+            "id": 119,
+            "token": ").",
+            "log_prob": -22.051647186279297,
+            "step": 11,
+            "eos": false,
+            "seq": [
+                0,
+                10,
+                20,
+                30,
+                40,
+                50,
+                66,
+                75,
+                86,
+                97,
+                101,
+                119
+            ],
+            "hyp": "It means being a wise person.).",
+            "sbleu": -1
+        }
+    ]
+}

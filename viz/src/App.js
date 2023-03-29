@@ -1,9 +1,9 @@
 import React, { setState } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import './style/app.css';
 import Container from './Container';
 
-import initalData from './beam_output.json';
+import initalData from './util/example_output.json';
 
 function processData(data) {
   // Calculate the total beams and sequence length

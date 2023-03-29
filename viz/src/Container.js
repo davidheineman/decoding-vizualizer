@@ -1,7 +1,7 @@
 import React from "react";
 import { Graph } from "react-d3-graph";
 import Table from 'react-bootstrap/Table';
-import graphConfig from './graph_config.config';
+import graphConfig from './util/graph_config.config';
 import Header from "./Header";
 
 import Row from 'react-bootstrap/Row';

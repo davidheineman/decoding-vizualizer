@@ -1,5 +1,5 @@
 import React from "react";
-import "./custom-node.css";
+import "./style/custom-node.css";
 
 /**
  * Component that renders a person's name and gender, along with icons

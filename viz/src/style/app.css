@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  height: auto;
+  margin-top: 16px;
+}
+.output-sent {
+  text-align: left;
+}
+.candidate-outputs {
+  margin: 16px auto auto auto;
+  max-width: 800px;
+}
+.graph-container {
+  width: fit-content;
+  margin: auto;
+  border: 4px solid rgb(41, 41, 41);
+}
+
+.input-form {
+  margin: 16px auto auto auto;
+  max-width: 800px;
+  padding: 16px;
+  text-align: left;
+}
+
+.submit-button-container {
+  margin: auto;
+}
+
+.hidden {
+  display: none;
+}
